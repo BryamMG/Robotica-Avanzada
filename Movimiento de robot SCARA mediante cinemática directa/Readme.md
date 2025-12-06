@@ -1,4 +1,4 @@
-# 🤖 SCARA Robot – Control, Cinemática e Interfaz Completa
+# 🤖 SCARA Robot 
 
 Este repositorio contiene el sistema completo para controlar un **robot SCARA**, incluyendo:
 
