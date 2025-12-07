@@ -24,7 +24,7 @@ El programa en `arduino/scara_robot.ino` se encarga de:
 - Controlar servomotores para **Q1**, **Q2** y el actuador **Z**.
 - Recibir comandos desde Python vía serial/UDP.
 - Ejecutar posiciones articulares calculadas por el servidor.
-- Control del *gripper* (abrir/cerrar).
+- Control del *efector final* (abrir/cerrar).
 - Protección de límites de movimiento.
 
 ---
